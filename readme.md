@@ -33,6 +33,6 @@ Yugi-Po! é um jogo baseado no universo do Yugi-Oh!, utilizando a dinâmica clá
 
 Se deseja contribuir com melhorias, correções ou novas funcionalidades, sinta-se à vontade para criar um fork deste projeto e submeter suas propostas através de pull requests.
 
-## Autor
+## Autora
 
 Juliana Chaves Palm - [LinkedIn](https://www.linkedin.com/in/julianachavespalm) | [GitHub](www.github.com/julianachavespalm)
